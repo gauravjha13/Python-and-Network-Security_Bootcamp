@@ -4,7 +4,7 @@ result = hashlib.md5(b'ShapeAI')
 print("The byte equivalent of hash is : ", end = " ")
 print (result.digest())
 
-# WAP in Python to generate hashes of string data using 3 algorithms from hashlib.
+# WAP in Python to generate hashes of string data.
 int_val = 13
 str_val = 'ShapeAI'
 flt_val = 13.56
